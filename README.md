@@ -1,5 +1,9 @@
 # pytorchの基本的な使用方法のまとめ
 
+Pytorchの使用方法を初心者向けにまとめた。
+
+各ノートブックは、機械学習コンペでよく使用されるモジュール化までを可能な限り説明した。
+
 ## dataset_dataloader : Dataset, DataLoaderの使用方法のまとめ
 
 ### Datasetに関しては、以下の手法をまとめた。

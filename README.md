@@ -2,13 +2,13 @@
 
 ## dataset_dataloader : Dataset, DataLoaderの使用方法のまとめ
 
-Datasetに関しては、以下の手法をまとめた。
+### Datasetに関しては、以下の手法をまとめた。
 
 - Pytorchのサンプルデータをロードしデータセットを作成する方法
 - numpy, pandasのデータからDatasetを作成する方法
 - 自作Datasetを作成する方法
 
-DataLoaderに関しては、以下の手法をまとめた。
+### DataLoaderに関しては、以下の手法をまとめた。
 
 - DataLoaderの作成方法
 - DataLoaderの動作の確認
